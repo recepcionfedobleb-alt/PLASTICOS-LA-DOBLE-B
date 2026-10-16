@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.plasticosladobleb.twa",
+        "sha256_cert_fingerprints": ["8D:21:17:E8:3D:F2:DA:3C:DA:29:65:7F:97:5E:AF:37:09:3F:2D:4D:9A:26:6F:39:FD:D6:0D:39:FB:99:23:86"]
+      }
+    }]
